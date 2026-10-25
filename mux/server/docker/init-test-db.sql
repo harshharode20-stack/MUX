@@ -1,1 +1,0 @@
-CREATE DATABASE mux_test;
